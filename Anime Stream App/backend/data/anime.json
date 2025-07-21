@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Naruto",
+    "cover": "/covers/naruto.jpg",
+    "description": "A young ninja strives to become the leader of his village.",
+    "genres": ["Action", "Adventure"],
+    "year": 2002
+  },
+  {
+    "id": "2",
+    "title": "Attack on Titan",
+    "cover": "/covers/aot.jpg",
+    "description": "Humans fight for survival against giant humanoid Titans.",
+    "genres": ["Action", "Drama"],
+    "year": 2013
+  }
+] 

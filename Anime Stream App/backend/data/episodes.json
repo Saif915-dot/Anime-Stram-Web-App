@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "animeId": "1",
+    "title": "Enter: Naruto Uzumaki!",
+    "videoUrl": "/videos/naruto-ep1.mp4",
+    "subtitlesUrl": "/subs/naruto-ep1.vtt"
+  },
+  {
+    "id": "2",
+    "animeId": "1",
+    "title": "My Name is Konohamaru!",
+    "videoUrl": "/videos/naruto-ep2.mp4",
+    "subtitlesUrl": "/subs/naruto-ep2.vtt"
+  },
+  {
+    "id": "3",
+    "animeId": "2",
+    "title": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+    "videoUrl": "/videos/aot-ep1.mp4",
+    "subtitlesUrl": "/subs/aot-ep1.vtt"
+  }
+] 

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anime Stream</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen">
+  <header class="bg-white shadow p-4 flex flex-col sm:flex-row items-center justify-between">
+    <h1 class="text-2xl font-bold text-blue-600">Anime Stream</h1>
+    <input id="search" type="text" placeholder="Search anime..." class="mt-2 sm:mt-0 border rounded px-3 py-1 w-full sm:w-64">
+  </header>
+  <main class="p-4">
+    <div id="anime-grid" class="grid gap-6 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6"></div>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html> 
